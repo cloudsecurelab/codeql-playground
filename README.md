@@ -1,0 +1,2 @@
+# codeql-playground
+github codeql
